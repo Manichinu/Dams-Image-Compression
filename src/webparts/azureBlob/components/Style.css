@@ -1,0 +1,10 @@
+div[data-automation-id="pageHeader"],
+      #spCommandBar,
+      #spLeftNav,
+      #CommentsWrapper,
+      .ms-CommandBar,
+      #spSiteHeader,
+      #sp-appBar,
+      #SuiteNavPlaceholder{
+         display: none !important;
+}
