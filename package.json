@@ -38,6 +38,7 @@
     "@rushstack/eslint-config": "2.5.1",
     "@types/crypto-js": "^4.2.2",
     "@types/jquery": "^3.5.29",
+    "@types/nodemailer": "^6.4.14",
     "@types/react": "17.0.45",
     "@types/react-dom": "17.0.17",
     "@types/webpack-env": "~1.15.2",
